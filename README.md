@@ -72,10 +72,6 @@ Requires the PHP expect module to be enabled
 </creds
 
 ```
-
-Send the Request
-
-```
 curl -d @xml.txt http://127.0.0.1/xxe.php
 
 ```
